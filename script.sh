@@ -1,2 +1,2 @@
-#!/bin/bash
-Echo"hello jenkins from main branch"
+\FROM centos:7
+RUN yum install https -y
